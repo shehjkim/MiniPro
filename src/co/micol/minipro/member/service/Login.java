@@ -32,7 +32,7 @@ public class Login implements Service {
 			viewPage="views/member/loginFail.jsp";
 		}
 		
-		return viewPage;
+		return viewPage;					//로그인 서비스가 값을 viewPage로 돌려줌
 	}
 
 }
