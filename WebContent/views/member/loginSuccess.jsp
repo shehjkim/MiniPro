@@ -9,7 +9,9 @@
 <jsp:include page="../common/menu.jsp"></jsp:include>
 <body>
 <div align = "center">
-	<h3>${vo.mName }님 (ID-${vo.mId }) 환영합니다.</h3>
+	<h1>${vo.mName }님</h1>
+	<h4>(ID-${vo.mId })</h4> 
+	<h3>환영합니다.</h3>
 </div>
 
 </body>

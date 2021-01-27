@@ -1,4 +1,4 @@
-package co.micol.minipro.member.dao;
+package co.micol.minipro.board.dao;
 
 import java.util.ArrayList;
 
